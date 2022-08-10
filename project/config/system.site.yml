@@ -1,9 +1,9 @@
 _core:
   default_config_hash: VDJxTZtQR21qB4lvOq8zszJZLvLKrSPQpdn2E3T71Ww
 langcode: en
-uuid: f6a10f4e-5c3d-4ff9-b336-0312bc99d03a
-name: 'Umami Food Magazine'
-mail: kporras07@gmail.com
+uuid: e9d69d5a-8b53-4fd8-b9b1-881615127e84
+name: 'Drush Site-Install'
+mail: admin@example.com
 slogan: ''
 page:
   403: ''
